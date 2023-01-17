@@ -15,7 +15,7 @@ export const projects = [
     source:
       "https://github.com/AhmedNaderAmer/My-Portfolio",
     visit:
-      "https://github.com/AhmedNaderAmer/My-Portfolio",
+      "https://my-portfolio-ix6d.vercel.app/",
     id: 2,
   },
   {
